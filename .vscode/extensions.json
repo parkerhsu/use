@@ -1,0 +1,29 @@
+{
+  "recommendations": [
+
+    // themes & icons
+    "file-icons.file-icons",
+    "akamud.vscode-theme-onedark",
+
+    // life savers!
+    "dbaeumer.vscode-eslint",
+    "GitHub.copilot",
+    "usernamehw.errorlens",
+    "streetsidesoftware.code-spell-checker",
+    "mhutchie.git-graph",
+    "genieai.chatgpt-vscode",
+
+    // up to you
+    "esbenp.prettier-vscode",
+    "eamodio.gitlens",
+    "EditorConfig.EditorConfig",
+    "GitHub.vscode-pull-request-github",
+    "naumovs.color-highlight",
+    "richie5um2.vscode-sort-json",
+    "znck.grammarly",
+    "Orta.vscode-jest",
+    "firsttris.vscode-jest-runner",
+    "dsznajder.es7-react-js-snippets",
+    "wayou.vscode-todo-highlight"
+  ]
+}
