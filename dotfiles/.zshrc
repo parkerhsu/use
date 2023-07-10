@@ -13,7 +13,7 @@ plugins=(
 )
 
 # https://ohmyz.sh/
-source $ZSH/oh-my-zsh.sh
+source ~/.oh-my-zsh/oh-my-zsh.sh
 
 # -------------------------------- #
 # Node Package Manager
@@ -39,9 +39,6 @@ alias re="nr release"
 # -------------------------------- #
 # Git
 # -------------------------------- #
-
-# Use github/hub
-alias git=hub
 
 # Go to project root
 alias grt='cd "$(git rev-parse --show-toplevel)"'
